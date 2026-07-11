@@ -242,7 +242,7 @@
 <a href="https://your-portfolio-link.com" target="_blank"> <!-- ⟶ EDIT THIS -->
 <img src="https://img.shields.io/badge/Portfolio-0f172a?style=for-the-badge&logo=vercel&logoColor=38BDF8"/>
 </a>
-<a href="mailto:your.email@example.com" target="_blank"> <!-- ⟶ EDIT THIS -->
+<a href="mailto:your.email@example.com" target="_blank"> anujdps123@gmail.com
 <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=38BDF8"/>
 </a>
 <a href="https://leetcode.com/YOUR_LEETCODE_HANDLE" target="_blank"> <!-- ⟶ EDIT THIS -->
