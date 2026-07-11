@@ -147,8 +147,10 @@
 
 <h3 align="center">🔥 Daily Contribution Heatmap</h3>
 <div align="center">
-<img width="90%" src="https://ghchart.rshah.org/38BDF8/anujsharma32" alt="anujsharma32's contribution heatmap"/>
+<img width="90%" src="https://raw.githubusercontent.com/anujsharma32/anujsharma32/output/contribution-heatmap.svg" alt="anujsharma32's contribution heatmap"/>
 </div>
+
+<p align="center"><sub>Updates automatically every day via GitHub Actions — see setup note below if the image doesn't appear yet.</sub></p>
 
 <br/>
 
