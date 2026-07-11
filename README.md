@@ -236,7 +236,7 @@
 <a href="https://github.com/anujsharma32" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=38BDF8"/>
 </a>
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_HANDLE" target="_blank"> <!-- ⟶ EDIT THIS -->
+<a href="www.linkedin.com/in/anuj-sharma-6490bb377" target="_blank"> <!-- ⟶ EDIT THIS -->
 <img src="https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=38BDF8"/>
 </a>
 <a href="https://your-portfolio-link.com" target="_blank"> <!-- ⟶ EDIT THIS -->
