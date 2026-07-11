@@ -41,16 +41,14 @@
 
 <table align="center">
 <tr>
-<td>
+<td align="left">
 
-```
-🎓  3rd Year B.Tech CSE Student
-💻  Passionate about Java Development
-🌐  Building Full Stack Projects
-🚀  Solving DSA Problems
-📚  Learning Backend Development
-⚡  Exploring AI
-```
+🎓&nbsp;&nbsp;3rd Year B.Tech CSE Student<br/><br/>
+💻&nbsp;&nbsp;Passionate about Java Development<br/><br/>
+🌐&nbsp;&nbsp;Building Full Stack Projects<br/><br/>
+🚀&nbsp;&nbsp;Solving DSA Problems<br/><br/>
+📚&nbsp;&nbsp;Learning Backend Development<br/><br/>
+⚡&nbsp;&nbsp;Exploring AI
 
 </td>
 </tr>
@@ -143,6 +141,13 @@
 <h3 align="center">📈 Contribution Graph</h3>
 <div align="center">
 <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=anujsharma32&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=38BDF8&line=0ea5e9&point=e2e8f0"/>
+</div>
+
+<br/>
+
+<h3 align="center">🔥 Daily Contribution Heatmap</h3>
+<div align="center">
+<img width="90%" src="https://ghchart.rshah.org/38BDF8/anujsharma32" alt="anujsharma32's contribution heatmap"/>
 </div>
 
 <br/>
