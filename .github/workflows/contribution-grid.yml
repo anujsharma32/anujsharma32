@@ -1,0 +1,35 @@
+name: Generate Contribution Heatmap
+
+on:
+  schedule:
+    # Runs every day at midnight UTC — keeps the heatmap synced with your latest contributions
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Generate contribution heatmap (black bg, blue intensity)
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: anujsharma32
+          outputs: |
+            dist/contribution-heatmap.svg?color_dots=#0d1117,#0d3b66,#145da0,#1e88e5,#38bdf8&color_snake=#e2e8f0
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Push heatmap to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
