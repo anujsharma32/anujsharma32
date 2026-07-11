@@ -245,7 +245,7 @@
 <a href="mailto:anujdps123@gmail.com" target="_blank"> 
 <img src="https://img.shields.io/badge/Email-0f172a?style=for-the-badge&logo=gmail&logoColor=38BDF8"/>
 </a>
-<a href="https://leetcode.com/YOUR_LEETCODE_HANDLE" target="_blank"> <!-- ⟶ EDIT THIS -->
+<a href="https://leetcode.com/u/TechyAJ/" target="_blank"> <!-- ⟶ EDIT THIS -->
 <img src="https://img.shields.io/badge/LeetCode-0f172a?style=for-the-badge&logo=leetcode&logoColor=38BDF8"/>
 </a>
 <a href="https://codeforces.com/profile/YOUR_CODEFORCES_HANDLE" target="_blank"> <!-- ⟶ EDIT THIS -->
